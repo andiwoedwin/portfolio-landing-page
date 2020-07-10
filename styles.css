@@ -10,7 +10,8 @@ body {
     width: 100%;
     height: 50%;
     background-color: tan;
-    color: whitesmoke;
+    color: beige;
+    background-position: center;
 }
 h1 {
     color: azure;
@@ -22,4 +23,8 @@ h2 {
 }
 h3 {
     color: seashell;
+}
+*{
+    padding: 0;
+    margin: 0;
 }
