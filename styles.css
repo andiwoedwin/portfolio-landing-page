@@ -4,13 +4,13 @@
     font-size: larger;
 }
 body {
-    background-image: url(images/eagles.jpg);
+    background-image: url(images/eagl.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
     height: 50%;
     background-color: tan;
-    color: beige;
+    color:black;
     background-position: center;
 }
 h1 {
@@ -27,4 +27,7 @@ h3 {
 *{
     padding: 0;
     margin: 0;
+}
+.business {
+    color: black;
 }
